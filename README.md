@@ -1,3 +1,3 @@
 # Senior Year Notes
 
-[Software Engineering](/420)
+[Software Engineering](/Senior-Year-Notes/420)
