@@ -7,10 +7,10 @@
 
 {% include /420/8-27-2019.md %}
 
-*[Back to index](#Software-Engineering)*
+*[Back to index](#software-engineering)*
 
 ***
 
 {% include /420/8-29-2019.md %}
 
-*[Back to index](#Software-Engineering)*
+*[Back to index](#software-engineering)*
