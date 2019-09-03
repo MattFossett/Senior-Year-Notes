@@ -14,3 +14,9 @@
 {% include /420/8-29-2019.md %}
 
 *[Back to index](#software-engineering)*
+
+***
+
+{% include /420/9-3-2019.md %}
+
+*[Back to index](#software-engineering)*
