@@ -3,6 +3,9 @@
 # populateFiles numberedClass date
 
 echo "#### _$2_" >> _includes/$1/$2.md
+echo "* [$2](\#$2)" >> _includes/$1/links.md
+
+* [9-10-2019](#9-10-2019)
 
 echo "" >> $1/index.md
 echo "***" >> $1/index.md
