@@ -3,6 +3,7 @@
 * [8-28-2019](#8-28-2019)
 * [9-4-2019](#9-4-2019)
 * [9-6-2019](#9-6-2019)
+* [9-13-2019](#9-13-2019)
 
 ***
 
@@ -25,5 +26,11 @@
 ***
 
 {% include /450/9-6-2019.md %}
+
+*[Back to index](#Artificial-Intelligence)*
+
+***
+
+{% include /450/9-13-2019.md %}
 
 *[Back to index](#Artificial-Intelligence)*
