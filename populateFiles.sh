@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
-
-# populateFiles numberedClass date
+# populateFiles numberedClass date [optional- any char specifies sound file inclusion]
+# Designed to populate .md files with information for notes site
 
 echo "#### _$2_" >> _includes/$1/$2.md
 if [ $# -eq 3 ]
