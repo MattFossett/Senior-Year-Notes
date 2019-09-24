@@ -38,3 +38,9 @@
 {% include /420/9-24-2019.md %}
 
 *[Back to index](#420)*
+
+***
+
+{% include /420/9-24-2019.md %}
+
+*[Back to index](#420)*
