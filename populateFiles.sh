@@ -17,3 +17,5 @@ echo "" >> $1/index.md
 echo "{% include /$1/$2.md %}" >> $1/index.md
 echo "" >> $1/index.md
 echo "*[Back to index](#$1)*" >> $1/index.md
+
+code _includes/$1/$2.md
