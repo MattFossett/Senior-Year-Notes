@@ -55,3 +55,9 @@
 {% include /475/10-8-2019.md %}
 
 *[Back to index](#475)*
+
+***
+
+{% include /475/10-29-2019.md %}
+
+*[Back to index](#475)*
